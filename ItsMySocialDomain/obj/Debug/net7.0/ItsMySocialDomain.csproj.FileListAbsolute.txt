@@ -1,0 +1,12 @@
+D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.csproj.AssemblyReference.cache
+D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.AssemblyInfoInputs.cache
+D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.AssemblyInfo.cs
+D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.csproj.CoreCompileInputs.cache
+D:\E\newAPI\ItsMySocialDomain\bin\Debug\net7.0\ItsMySocialDomain.deps.json
+D:\E\newAPI\ItsMySocialDomain\bin\Debug\net7.0\ItsMySocialDomain.dll
+D:\E\newAPI\ItsMySocialDomain\bin\Debug\net7.0\ItsMySocialDomain.pdb
+D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.dll
+D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\refint\ItsMySocialDomain.dll
+D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.pdb
+D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\ref\ItsMySocialDomain.dll

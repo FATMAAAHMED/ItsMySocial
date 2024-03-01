@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\E\\newAPI\\ItsMySocial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92A3E0EC-DC1B-46B6-B153-3E2EF020E658}|..\\ItsMySocialContext\\ItsMySocialContext.csproj|d:\\e\\newapi\\itsmysocialcontext\\migrations\\socialdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A3E0EC-DC1B-46B6-B153-3E2EF020E658}|..\\ItsMySocialContext\\ItsMySocialContext.csproj|d:\\e\\newapi\\itsmysocialcontext\\migrations\\20240301001958_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92A3E0EC-DC1B-46B6-B153-3E2EF020E658}|..\\ItsMySocialContext\\ItsMySocialContext.csproj|d:\\e\\newapi\\itsmysocialcontext\\relationmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "socialDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialContext\\Migrations\\socialDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\ItsMySocialContext\\Migrations\\socialDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\E\\newAPI\\ItsMySocialContext\\Migrations\\socialDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\ItsMySocialContext\\Migrations\\socialDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAHsBAAAAAAAAAAAAAIcBAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:24:01.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240301001958_init.cs",
+              "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialContext\\Migrations\\20240301001958_init.cs",
+              "RelativeDocumentMoniker": "..\\ItsMySocialContext\\Migrations\\20240301001958_init.cs",
+              "ToolTip": "D:\\E\\newAPI\\ItsMySocialContext\\Migrations\\20240301001958_init.cs",
+              "RelativeToolTip": "..\\ItsMySocialContext\\Migrations\\20240301001958_init.cs",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T00:20:00.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RelationMapping.cs",
+              "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialContext\\RelationMapping.cs",
+              "RelativeDocumentMoniker": "..\\ItsMySocialContext\\RelationMapping.cs",
+              "ToolTip": "D:\\E\\newAPI\\ItsMySocialContext\\RelationMapping.cs",
+              "RelativeToolTip": "..\\ItsMySocialContext\\RelationMapping.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAAC8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T22:27:19.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

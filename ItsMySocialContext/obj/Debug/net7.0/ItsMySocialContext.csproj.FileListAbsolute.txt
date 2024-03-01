@@ -1,0 +1,15 @@
+D:\E\newAPI\ItsMySocialContext\obj\Debug\net7.0\ItsMySocialContext.csproj.AssemblyReference.cache
+D:\E\newAPI\ItsMySocialContext\obj\Debug\net7.0\ItsMySocialContext.GeneratedMSBuildEditorConfig.editorconfig
+D:\E\newAPI\ItsMySocialContext\obj\Debug\net7.0\ItsMySocialContext.AssemblyInfoInputs.cache
+D:\E\newAPI\ItsMySocialContext\obj\Debug\net7.0\ItsMySocialContext.AssemblyInfo.cs
+D:\E\newAPI\ItsMySocialContext\obj\Debug\net7.0\ItsMySocialContext.csproj.CoreCompileInputs.cache
+D:\E\newAPI\ItsMySocialContext\bin\Debug\net7.0\ItsMySocialContext.deps.json
+D:\E\newAPI\ItsMySocialContext\bin\Debug\net7.0\ItsMySocialContext.dll
+D:\E\newAPI\ItsMySocialContext\bin\Debug\net7.0\ItsMySocialContext.pdb
+D:\E\newAPI\ItsMySocialContext\bin\Debug\net7.0\ItsMySocialDomain.dll
+D:\E\newAPI\ItsMySocialContext\bin\Debug\net7.0\ItsMySocialDomain.pdb
+D:\E\newAPI\ItsMySocialContext\obj\Debug\net7.0\ItsMySoc.F0CB413C.Up2Date
+D:\E\newAPI\ItsMySocialContext\obj\Debug\net7.0\ItsMySocialContext.dll
+D:\E\newAPI\ItsMySocialContext\obj\Debug\net7.0\refint\ItsMySocialContext.dll
+D:\E\newAPI\ItsMySocialContext\obj\Debug\net7.0\ItsMySocialContext.pdb
+D:\E\newAPI\ItsMySocialContext\obj\Debug\net7.0\ref\ItsMySocialContext.dll
