@@ -10,3 +10,4 @@ D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.dll
 D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\refint\ItsMySocialDomain.dll
 D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.pdb
 D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\ref\ItsMySocialDomain.dll
+D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.sourcelink.json

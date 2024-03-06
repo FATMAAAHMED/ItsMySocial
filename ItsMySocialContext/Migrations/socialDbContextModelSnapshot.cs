@@ -48,8 +48,6 @@ namespace ItsMySocialContext.Migrations
 
                     b.HasIndex("PostId");
 
-                    b.HasIndex("UserId");
-
                     b.ToTable("Comments");
                 });
 
@@ -65,8 +63,6 @@ namespace ItsMySocialContext.Migrations
                         .HasColumnType("datetime2");
 
                     b.HasKey("PostId", "UserId");
-
-                    b.HasIndex("UserId");
 
                     b.ToTable("Likes");
                 });
@@ -150,8 +146,6 @@ namespace ItsMySocialContext.Migrations
                         .HasColumnType("datetime2");
 
                     b.HasKey("PostId", "UserId");
-
-                    b.HasIndex("UserId");
 
                     b.ToTable("Shares");
                 });
@@ -387,15 +381,7 @@ namespace ItsMySocialContext.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("ItsMySocialDomain.Entities.User", "User")
-                        .WithMany()
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.Navigation("Post");
-
-                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("ItsMySocialDomain.Entities.Like", b =>
@@ -406,15 +392,7 @@ namespace ItsMySocialContext.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("ItsMySocialDomain.Entities.User", "User")
-                        .WithMany()
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.Navigation("Post");
-
-                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("ItsMySocialDomain.Entities.Message", b =>
@@ -447,15 +425,7 @@ namespace ItsMySocialContext.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("ItsMySocialDomain.Entities.User", "User")
-                        .WithMany()
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
                     b.Navigation("Post");
-
-                    b.Navigation("User");
                 });
 
             modelBuilder.Entity("ItsMySocialDomain.Entities.User", b =>

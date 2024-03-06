@@ -13,3 +13,4 @@ D:\E\newAPI\ItsMySocialContext\obj\Debug\net7.0\ItsMySocialContext.dll
 D:\E\newAPI\ItsMySocialContext\obj\Debug\net7.0\refint\ItsMySocialContext.dll
 D:\E\newAPI\ItsMySocialContext\obj\Debug\net7.0\ItsMySocialContext.pdb
 D:\E\newAPI\ItsMySocialContext\obj\Debug\net7.0\ref\ItsMySocialContext.dll
+D:\E\newAPI\ItsMySocialContext\obj\Debug\net7.0\ItsMySocialContext.sourcelink.json

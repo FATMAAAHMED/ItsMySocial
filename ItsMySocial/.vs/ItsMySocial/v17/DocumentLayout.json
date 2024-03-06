@@ -3,10 +3,22 @@
   "WorkspaceRootPath": "D:\\E\\newAPI\\ItsMySocial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{92A3E0EC-DC1B-46B6-B153-3E2EF020E658}|..\\ItsMySocialContext\\ItsMySocialContext.csproj|d:\\e\\newapi\\itsmysocialcontext\\migrations\\socialdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\E\\newAPI\\ItsMySocialContext\\Migrations\\20240301123414_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92A3E0EC-DC1B-46B6-B153-3E2EF020E658}|..\\ItsMySocialContext\\ItsMySocialContext.csproj|d:\\e\\newapi\\itsmysocialcontext\\migrations\\20240301001958_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCFEA403-5E90-4AED-9FBA-17AAF3F87876}|..\\ItsMySocialDomain\\ItsMySocialDomain.csproj|d:\\e\\newapi\\itsmysocialdomain\\entities\\share.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFEA403-5E90-4AED-9FBA-17AAF3F87876}|..\\ItsMySocialDomain\\ItsMySocialDomain.csproj|d:\\e\\newapi\\itsmysocialdomain\\entities\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFEA403-5E90-4AED-9FBA-17AAF3F87876}|..\\ItsMySocialDomain\\ItsMySocialDomain.csproj|d:\\e\\newapi\\itsmysocialdomain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFEA403-5E90-4AED-9FBA-17AAF3F87876}|..\\ItsMySocialDomain\\ItsMySocialDomain.csproj|d:\\e\\newapi\\itsmysocialdomain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFEA403-5E90-4AED-9FBA-17AAF3F87876}|..\\ItsMySocialDomain\\ItsMySocialDomain.csproj|d:\\e\\newapi\\itsmysocialdomain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{92A3E0EC-DC1B-46B6-B153-3E2EF020E658}|..\\ItsMySocialContext\\ItsMySocialContext.csproj|d:\\e\\newapi\\itsmysocialcontext\\relationmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -19,8 +31,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "..\\ItsMySocialDomain\\Entities\\Post.cs",
+              "ToolTip": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Post.cs",
+              "RelativeToolTip": "..\\ItsMySocialDomain\\Entities\\Post.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:37:45.369Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240301123414_init.cs",
+              "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialContext\\Migrations\\20240301123414_init.cs",
+              "RelativeDocumentMoniker": "..\\ItsMySocialContext\\Migrations\\20240301123414_init.cs",
+              "ToolTip": "D:\\E\\newAPI\\ItsMySocialContext\\Migrations\\20240301123414_init.cs",
+              "RelativeToolTip": "..\\ItsMySocialContext\\Migrations\\20240301123414_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T12:34:15.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Share.cs",
+              "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Share.cs",
+              "RelativeDocumentMoniker": "..\\ItsMySocialDomain\\Entities\\Share.cs",
+              "ToolTip": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Share.cs",
+              "RelativeToolTip": "..\\ItsMySocialDomain\\Entities\\Share.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T12:32:17.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Like.cs",
+              "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Like.cs",
+              "RelativeDocumentMoniker": "..\\ItsMySocialDomain\\Entities\\Like.cs",
+              "ToolTip": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Like.cs",
+              "RelativeToolTip": "..\\ItsMySocialDomain\\Entities\\Like.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T12:32:02.374Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -39,33 +104,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "socialDbContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialContext\\Migrations\\socialDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "..\\ItsMySocialContext\\Migrations\\socialDbContextModelSnapshot.cs",
-              "ToolTip": "D:\\E\\newAPI\\ItsMySocialContext\\Migrations\\socialDbContextModelSnapshot.cs",
-              "RelativeToolTip": "..\\ItsMySocialContext\\Migrations\\socialDbContextModelSnapshot.cs",
-              "ViewState": "AQIAAHsBAAAAAAAAAAAAAIcBAAAwAAAA",
+              "DocumentIndex": 3,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "..\\ItsMySocialDomain\\Entities\\Comment.cs",
+              "ToolTip": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Comment.cs",
+              "RelativeToolTip": "..\\ItsMySocialDomain\\Entities\\Comment.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T00:24:01.626Z",
+              "WhenOpened": "2024-03-01T11:38:17.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "20240301001958_init.cs",
-              "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialContext\\Migrations\\20240301001958_init.cs",
-              "RelativeDocumentMoniker": "..\\ItsMySocialContext\\Migrations\\20240301001958_init.cs",
-              "ToolTip": "D:\\E\\newAPI\\ItsMySocialContext\\Migrations\\20240301001958_init.cs",
-              "RelativeToolTip": "..\\ItsMySocialContext\\Migrations\\20240301001958_init.cs",
-              "ViewState": "AQIAAOMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\ItsMySocialDomain\\Entities\\User.cs",
+              "ToolTip": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\User.cs",
+              "RelativeToolTip": "..\\ItsMySocialDomain\\Entities\\User.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T00:20:00.071Z",
+              "WhenOpened": "2024-03-01T11:37:22.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "RelationMapping.cs",
               "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialContext\\RelationMapping.cs",
               "RelativeDocumentMoniker": "..\\ItsMySocialContext\\RelationMapping.cs",
@@ -73,8 +138,7 @@
               "RelativeToolTip": "..\\ItsMySocialContext\\RelationMapping.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAAAC8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-29T22:27:19.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-29T22:27:19.28Z"
             }
           ]
         }

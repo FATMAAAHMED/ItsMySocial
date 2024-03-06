@@ -84,3 +84,4 @@ D:\E\newAPI\ItsMySocial\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dl
 D:\E\newAPI\ItsMySocial\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
 D:\E\newAPI\ItsMySocial\bin\Debug\net7.0\Mono.TextTemplating.dll
 D:\E\newAPI\ItsMySocial\bin\Debug\net7.0\System.CodeDom.dll
+D:\E\newAPI\ItsMySocial\obj\Debug\net7.0\ItsMySocial.sourcelink.json
