@@ -11,3 +11,16 @@ D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\refint\ItsMySocialDomain.dll
 D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.pdb
 D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\ref\ItsMySocialDomain.dll
 D:\E\newAPI\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.sourcelink.json
+E:\ItsMySocial\Api\ItsMySocial\ItsMySocialDomain\bin\Debug\net7.0\ItsMySocialDomain.deps.json
+E:\ItsMySocial\Api\ItsMySocial\ItsMySocialDomain\bin\Debug\net7.0\ItsMySocialDomain.dll
+E:\ItsMySocial\Api\ItsMySocial\ItsMySocialDomain\bin\Debug\net7.0\ItsMySocialDomain.pdb
+E:\ItsMySocial\Api\ItsMySocial\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.csproj.AssemblyReference.cache
+E:\ItsMySocial\Api\ItsMySocial\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.GeneratedMSBuildEditorConfig.editorconfig
+E:\ItsMySocial\Api\ItsMySocial\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.AssemblyInfoInputs.cache
+E:\ItsMySocial\Api\ItsMySocial\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.AssemblyInfo.cs
+E:\ItsMySocial\Api\ItsMySocial\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.csproj.CoreCompileInputs.cache
+E:\ItsMySocial\Api\ItsMySocial\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.sourcelink.json
+E:\ItsMySocial\Api\ItsMySocial\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.dll
+E:\ItsMySocial\Api\ItsMySocial\ItsMySocialDomain\obj\Debug\net7.0\refint\ItsMySocialDomain.dll
+E:\ItsMySocial\Api\ItsMySocial\ItsMySocialDomain\obj\Debug\net7.0\ItsMySocialDomain.pdb
+E:\ItsMySocial\Api\ItsMySocial\ItsMySocialDomain\obj\Debug\net7.0\ref\ItsMySocialDomain.dll

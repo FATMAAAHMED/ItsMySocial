@@ -1,3 +1,5 @@
+using Contracts;
+using Infrastructure;
 using ItsMySocialContext;
 using ItsMySocialDomain.Entities;
 using Microsoft.AspNetCore.Identity;
@@ -33,6 +35,8 @@ builder.Services.AddIdentity<User, IdentityRole<long>>(options =>
     options.User.RequireUniqueEmail = true;
 }).AddEntityFrameworkStores<socialDbContext>()
 .AddDefaultTokenProviders();
+//builder.Services.AddScoped<socialDbContext>();
+builder.Services.AddScoped<IPostRepository, PostRepository>();
 
 
 var app = builder.Build();

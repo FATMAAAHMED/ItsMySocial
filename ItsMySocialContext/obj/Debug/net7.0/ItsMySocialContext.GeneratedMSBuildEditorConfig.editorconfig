@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ItsMySocialContext
-build_property.ProjectDir = D:\E\newAPI\ItsMySocialContext\
+build_property.ProjectDir = E:\ItsMySocial\Api\ItsMySocial\ItsMySocialContext\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

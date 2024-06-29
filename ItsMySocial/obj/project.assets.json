@@ -1321,6 +1321,33 @@
           }
         }
       },
+      "Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "ItsMySocialDomain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contracts.dll": {}
+        }
+      },
+      "Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contracts": "1.0.0",
+          "ItsMySocialContext": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Infrastructure.dll": {}
+        }
+      },
       "ItsMySocialContext/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -4111,6 +4138,16 @@
         "version.txt"
       ]
     },
+    "Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Contracts/Contracts.csproj",
+      "msbuildProject": "../Contracts/Contracts.csproj"
+    },
+    "Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Infrastructure/Infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/Infrastructure.csproj"
+    },
     "ItsMySocialContext/1.0.0": {
       "type": "project",
       "path": "../ItsMySocialContext/ItsMySocialContext.csproj",
@@ -4124,6 +4161,8 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Contracts >= 1.0.0",
+      "Infrastructure >= 1.0.0",
       "ItsMySocialContext >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.15",
       "Microsoft.EntityFrameworkCore >= 7.0.4",
@@ -4134,19 +4173,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Fatima\\.nuget\\packages\\": {}
+    "C:\\Users\\compu_tech\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\E\\newAPI\\ItsMySocial\\ItsMySocial.csproj",
+      "projectUniqueName": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\ItsMySocial.csproj",
       "projectName": "ItsMySocial",
-      "projectPath": "D:\\E\\newAPI\\ItsMySocial\\ItsMySocial.csproj",
-      "packagesPath": "C:\\Users\\Fatima\\.nuget\\packages\\",
-      "outputPath": "D:\\E\\newAPI\\ItsMySocial\\obj\\",
+      "projectPath": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\ItsMySocial.csproj",
+      "packagesPath": "C:\\Users\\compu_tech\\.nuget\\packages\\",
+      "outputPath": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Fatima\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\compu_tech\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4154,14 +4198,21 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\E\\newAPI\\ItsMySocialContext\\ItsMySocialContext.csproj": {
-              "projectPath": "D:\\E\\newAPI\\ItsMySocialContext\\ItsMySocialContext.csproj"
+            "E:\\ItsMySocial\\Api\\ItsMySocial\\Contracts\\Contracts.csproj": {
+              "projectPath": "E:\\ItsMySocial\\Api\\ItsMySocial\\Contracts\\Contracts.csproj"
+            },
+            "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\Infrastructure.csproj"
+            },
+            "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialContext\\ItsMySocialContext.csproj": {
+              "projectPath": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialContext\\ItsMySocialContext.csproj"
             }
           }
         }
@@ -4229,7 +4280,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
