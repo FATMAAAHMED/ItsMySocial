@@ -36,7 +36,7 @@ namespace Infrastructure
 
         public async Task<IEnumerable<Post>> GetPostsAsync()
         {
-            return await socialdbcontext.Posts.ToListAsync();
+            return await socialdbcontext.Posts.Include(p=>p.Likes).ToListAsync();
         }
         
         public async Task<Post> UpdatePostAsync(long Id ,string post)

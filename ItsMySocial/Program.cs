@@ -37,6 +37,7 @@ builder.Services.AddIdentity<User, IdentityRole<long>>(options =>
 .AddDefaultTokenProviders();
 //builder.Services.AddScoped<socialDbContext>();
 builder.Services.AddScoped<IPostRepository, PostRepository>();
+builder.Services.AddScoped<ILikeRepository, LikeRepository>();
 
 
 var app = builder.Build();

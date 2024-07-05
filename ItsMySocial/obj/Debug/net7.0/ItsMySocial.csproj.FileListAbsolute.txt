@@ -155,7 +155,6 @@ E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\obj\Debug\net7.0\ItsMySocial.Generate
 E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\obj\Debug\net7.0\ItsMySocial.AssemblyInfoInputs.cache
 E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\obj\Debug\net7.0\ItsMySocial.AssemblyInfo.cs
 E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\obj\Debug\net7.0\ItsMySocial.csproj.CoreCompileInputs.cache
-E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\obj\Debug\net7.0\ItsMySocial.MvcApplicationPartsAssemblyInfo.cs
 E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\obj\Debug\net7.0\ItsMySocial.MvcApplicationPartsAssemblyInfo.cache
 E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\obj\Debug\net7.0\ItsMySocial.sourcelink.json
 E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\obj\Debug\net7.0\staticwebassets.build.json
@@ -176,3 +175,4 @@ E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\bin\Debug\net7.0\Contracts.dll
 E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\bin\Debug\net7.0\Infrastructure.dll
 E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\bin\Debug\net7.0\Contracts.pdb
 E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\bin\Debug\net7.0\Infrastructure.pdb
+E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\obj\Debug\net7.0\ItsMySocial.MvcApplicationPartsAssemblyInfo.cs
