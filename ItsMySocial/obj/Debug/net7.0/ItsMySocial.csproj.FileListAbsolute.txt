@@ -175,4 +175,5 @@ E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\bin\Debug\net7.0\Contracts.dll
 E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\bin\Debug\net7.0\Infrastructure.dll
 E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\bin\Debug\net7.0\Contracts.pdb
 E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\bin\Debug\net7.0\Infrastructure.pdb
-E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\obj\Debug\net7.0\ItsMySocial.MvcApplicationPartsAssemblyInfo.cs
+E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\bin\Debug\net7.0\Dtos.dll
+E:\ItsMySocial\Api\ItsMySocial\ItsMySocial\bin\Debug\net7.0\Dtos.pdb

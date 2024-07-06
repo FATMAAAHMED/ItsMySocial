@@ -23,12 +23,7 @@ namespace ItsMySocial.Controllers
             return new string[] { "value1", "value2" };
         }
 
-        // GET api/<LikeController>/5
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
+       
 
         // POST api/<LikeController>
         [HttpPost]
@@ -49,11 +44,6 @@ namespace ItsMySocial.Controllers
         return BadRequest();
         }
 
-        // PUT api/<LikeController>/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
-        {
-        }
 
         // DELETE api/<LikeController>/5
         [HttpDelete]

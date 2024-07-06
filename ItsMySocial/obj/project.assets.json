@@ -1334,6 +1334,16 @@
           "bin/placeholder/Contracts.dll": {}
         }
       },
+      "Dtos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Dtos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dtos.dll": {}
+        }
+      },
       "Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -4143,6 +4153,11 @@
       "path": "../Contracts/Contracts.csproj",
       "msbuildProject": "../Contracts/Contracts.csproj"
     },
+    "Dtos/1.0.0": {
+      "type": "project",
+      "path": "../Dtos/Dtos.csproj",
+      "msbuildProject": "../Dtos/Dtos.csproj"
+    },
     "Infrastructure/1.0.0": {
       "type": "project",
       "path": "../Infrastructure/Infrastructure.csproj",
@@ -4162,6 +4177,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "Contracts >= 1.0.0",
+      "Dtos >= 1.0.0",
       "Infrastructure >= 1.0.0",
       "ItsMySocialContext >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.15",
@@ -4207,6 +4223,9 @@
           "projectReferences": {
             "E:\\ItsMySocial\\Api\\ItsMySocial\\Contracts\\Contracts.csproj": {
               "projectPath": "E:\\ItsMySocial\\Api\\ItsMySocial\\Contracts\\Contracts.csproj"
+            },
+            "E:\\ItsMySocial\\Api\\ItsMySocial\\Dtos\\Dtos.csproj": {
+              "projectPath": "E:\\ItsMySocial\\Api\\ItsMySocial\\Dtos\\Dtos.csproj"
             },
             "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\Infrastructure.csproj": {
               "projectPath": "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\Infrastructure.csproj"
@@ -4283,13 +4302,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }
