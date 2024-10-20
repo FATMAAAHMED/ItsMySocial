@@ -1,4 +1,5 @@
 ﻿using Contracts;
+using Infrastructure;
 using ItsMySocialDomain.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
@@ -53,7 +54,7 @@ namespace ItsMySocial.Controllers
         {
             try
             {
-                var post= new Post { Content = postcontent ,UserId=userId};
+                var post = new Post { Content = postcontent, UserId = userId };
                 if (post == null)
                     return BadRequest("post is null");
 
@@ -76,8 +77,8 @@ namespace ItsMySocial.Controllers
                 if (id == null)
                     return BadRequest();
 
-     
-               return await _postRepository.UpdatePostAsync(id, postcontent);
+
+                return await _postRepository.UpdatePostAsync(id, postcontent);
 
             }
             catch (Exception ex)
@@ -93,9 +94,9 @@ namespace ItsMySocial.Controllers
             try
             {
 
-                    await _postRepository.DeletePostAsync(id);
-                    return Ok("post deleted");
-            
+                await _postRepository.DeletePostAsync(id);
+                return Ok("post deleted");
+
             }
             catch (Exception ex)
             {
@@ -103,5 +104,16 @@ namespace ItsMySocial.Controllers
 
             }
         }
+        //[HttpGet("{postId}")]
+        //public async Task<ActionResult> GetPostComments(long postId)
+        //{
+        //    return Ok( await _postRepository.GetPostCommentsAsync(postId));
+
+        //}
+        //[HttpGet("{postId}")]
+        //public async Task<ActionResult> GetPostLikes(long postId)
+        //{
+
+        //}
     }
 }

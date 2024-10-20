@@ -16,15 +16,7 @@ namespace ItsMySocial.Controllers
         {
             _likeRepository = likeRepository;
         }
-        // GET: api/<LikeController>
-        [HttpGet]
-        public IEnumerable<string> Get()
-        {
-            return new string[] { "value1", "value2" };
-        }
-
        
-
         // POST api/<LikeController>
         [HttpPost]
         public async Task<ActionResult> AddLikeAsync (long postId, long userId)

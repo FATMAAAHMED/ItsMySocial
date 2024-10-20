@@ -16,7 +16,7 @@ namespace ItsMySocialDomain.Configurations
         {
             builder.HasKey(x => x.Id);
             builder.Property(x => x.Id).ValueGeneratedOnAdd();
-            builder.Property(x => x.Name)
+            builder.Property(x => x.UserName)
                 .IsRequired()
                 .HasMaxLength(100);
             builder.Property(x => x.ProfilePicture)

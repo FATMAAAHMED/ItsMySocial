@@ -3,8 +3,18 @@
   "WorkspaceRootPath": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocial\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocial\\controllers\\sharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|solutionrelative:controllers\\sharecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32186D1-EDF5-4F79-9DE4-9ED806381078}|..\\Infrastructure\\Infrastructure.csproj|e:\\itsmysocial\\api\\itsmysocial\\infrastructure\\sharerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32186D1-EDF5-4F79-9DE4-9ED806381078}|..\\Infrastructure\\Infrastructure.csproj|e:\\itsmysocial\\api\\itsmysocial\\infrastructure\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B32186D1-EDF5-4F79-9DE4-9ED806381078}|..\\Infrastructure\\Infrastructure.csproj|e:\\itsmysocial\\api\\itsmysocial\\infrastructure\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -13,48 +23,94 @@
       "AbsoluteMoniker": "D:0:0:{B32186D1-EDF5-4F79-9DE4-9ED806381078}|..\\Infrastructure\\Infrastructure.csproj|e:\\itsmysocial\\api\\itsmysocial\\infrastructure\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6D12E34-1677-4AFA-8193-DD6F5FD84A4B}|..\\Contracts\\Contracts.csproj|e:\\itsmysocial\\api\\itsmysocial\\contracts\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6D12E34-1677-4AFA-8193-DD6F5FD84A4B}|..\\Contracts\\Contracts.csproj|e:\\itsmysocial\\api\\itsmysocial\\contracts\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCFEA403-5E90-4AED-9FBA-17AAF3F87876}|..\\ItsMySocialDomain\\ItsMySocialDomain.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocialdomain\\entities\\share.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocial\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|solutionrelative:controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6D12E34-1677-4AFA-8193-DD6F5FD84A4B}|..\\Contracts\\Contracts.csproj|e:\\itsmysocial\\api\\itsmysocial\\contracts\\isharerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCFEA403-5E90-4AED-9FBA-17AAF3F87876}|..\\ItsMySocialDomain\\ItsMySocialDomain.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocialdomain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0D5B165-B841-436A-A1B3-EA66E5DA38EE}|..\\Dtos\\Dtos.csproj|e:\\itsmysocial\\api\\itsmysocial\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCFEA403-5E90-4AED-9FBA-17AAF3F87876}|..\\ItsMySocialDomain\\ItsMySocialDomain.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocialdomain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocial\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocial\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92A3E0EC-DC1B-46B6-B153-3E2EF020E658}|..\\ItsMySocialContext\\ItsMySocialContext.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocialcontext\\migrations\\20240621161104_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92A3E0EC-DC1B-46B6-B153-3E2EF020E658}|..\\ItsMySocialContext\\ItsMySocialContext.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocialcontext\\socialdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\E\\newAPI\\ItsMySocialContext\\Migrations\\20240301123414_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCFEA403-5E90-4AED-9FBA-17AAF3F87876}|..\\ItsMySocialDomain\\ItsMySocialDomain.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocialdomain\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFEA403-5E90-4AED-9FBA-17AAF3F87876}|..\\ItsMySocialDomain\\ItsMySocialDomain.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocialdomain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D5B165-B841-436A-A1B3-EA66E5DA38EE}|..\\Dtos\\Dtos.csproj|e:\\itsmysocial\\api\\itsmysocial\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D5B165-B841-436A-A1B3-EA66E5DA38EE}|..\\Dtos\\Dtos.csproj|e:\\itsmysocial\\api\\itsmysocial\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialContext\\Migrations\\20241018140503_initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialContext\\Migrations\\20241018135719_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D5B165-B841-436A-A1B3-EA66E5DA38EE}|..\\Dtos\\Dtos.csproj|e:\\itsmysocial\\api\\itsmysocial\\dtos\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D12E34-1677-4AFA-8193-DD6F5FD84A4B}|..\\Contracts\\Contracts.csproj|e:\\itsmysocial\\api\\itsmysocial\\contracts\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocial\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|solutionrelative:controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6D12E34-1677-4AFA-8193-DD6F5FD84A4B}|..\\Contracts\\Contracts.csproj|e:\\itsmysocial\\api\\itsmysocial\\contracts\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D5B165-B841-436A-A1B3-EA66E5DA38EE}|..\\Dtos\\Dtos.csproj|e:\\itsmysocial\\api\\itsmysocial\\dtos\\sharedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocial\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|solutionrelative:controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D5B165-B841-436A-A1B3-EA66E5DA38EE}|..\\Dtos\\Dtos.csproj|e:\\itsmysocial\\api\\itsmysocial\\dtos\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B32186D1-EDF5-4F79-9DE4-9ED806381078}|..\\Infrastructure\\Infrastructure.csproj|e:\\itsmysocial\\api\\itsmysocial\\infrastructure\\likerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D5B165-B841-436A-A1B3-EA66E5DA38EE}|..\\Dtos\\Dtos.csproj|e:\\itsmysocial\\api\\itsmysocial\\dtos\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocial\\itsmysocial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|solutionrelative:itsmysocial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocial\\controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66BCE80A-04C2-4380-920D-0D46C20670E1}|ItsMySocial.csproj|solutionrelative:controllers\\likecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFEA403-5E90-4AED-9FBA-17AAF3F87876}|..\\ItsMySocialDomain\\ItsMySocialDomain.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocialdomain\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCFEA403-5E90-4AED-9FBA-17AAF3F87876}|..\\ItsMySocialDomain\\ItsMySocialDomain.csproj|e:\\itsmysocial\\api\\itsmysocial\\itsmysocialdomain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Share.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\E\\newAPI\\ItsMySocialContext\\RelationMapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -67,11 +123,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "Post.cs",
               "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Post.cs",
               "ToolTip": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Post.cs",
@@ -81,131 +137,198 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CommentController.cs",
-              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\Controllers\\CommentController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
-              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\Controllers\\CommentController.cs",
-              "RelativeToolTip": "Controllers\\CommentController.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAgwEcAAAAMAAAA",
+              "DocumentIndex": 16,
+              "Title": "20241018140503_initial2.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialContext\\Migrations\\20241018140503_initial2.cs",
+              "RelativeDocumentMoniker": "..\\ItsMySocialContext\\Migrations\\20241018140503_initial2.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialContext\\Migrations\\20241018140503_initial2.cs",
+              "RelativeToolTip": "..\\ItsMySocialContext\\Migrations\\20241018140503_initial2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T12:59:58.161Z",
+              "WhenOpened": "2024-10-18T14:05:03.704Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "commentRepository.cs",
-              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\commentRepository.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\commentRepository.cs",
-              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\commentRepository.cs",
-              "RelativeToolTip": "..\\Infrastructure\\commentRepository.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAADIAAAAIAAAA",
+              "DocumentIndex": 12,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialDomain\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\ItsMySocialDomain\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialDomain\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "..\\ItsMySocialDomain\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADgvxQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T10:21:36.278Z",
+              "WhenOpened": "2024-10-18T14:04:15.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICommentRepository.cs",
-              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Contracts\\ICommentRepository.cs",
-              "RelativeDocumentMoniker": "..\\Contracts\\ICommentRepository.cs",
-              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Contracts\\ICommentRepository.cs",
-              "RelativeToolTip": "..\\Contracts\\ICommentRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "DocumentIndex": 17,
+              "Title": "20241018135719_initial.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialContext\\Migrations\\20241018135719_initial.cs",
+              "RelativeDocumentMoniker": "..\\ItsMySocialContext\\Migrations\\20241018135719_initial.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialContext\\Migrations\\20241018135719_initial.cs",
+              "RelativeToolTip": "..\\ItsMySocialContext\\Migrations\\20241018135719_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T10:17:56.026Z",
+              "WhenOpened": "2024-10-18T13:57:20.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PostController.cs",
-              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\Controllers\\PostController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PostController.cs",
-              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\Controllers\\PostController.cs",
-              "RelativeToolTip": "Controllers\\PostController.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAAAE8AAAA0AAAA",
+              "DocumentIndex": 18,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Dtos\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "..\\Dtos\\AutoMapper.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Dtos\\AutoMapper.cs",
+              "RelativeToolTip": "..\\Dtos\\AutoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T07:43:06.12Z",
+              "WhenOpened": "2024-10-18T13:37:27.916Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
+              "Title": "socialDbContext.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialContext\\socialDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ItsMySocialContext\\socialDbContext.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialContext\\socialDbContext.cs",
+              "RelativeToolTip": "..\\ItsMySocialContext\\socialDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAnwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:40:30.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:09:49.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "IPostRepository.cs",
               "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Contracts\\IPostRepository.cs",
               "RelativeDocumentMoniker": "..\\Contracts\\IPostRepository.cs",
               "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Contracts\\IPostRepository.cs",
               "RelativeToolTip": "..\\Contracts\\IPostRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAASAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T22:30:09.317Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PostRepository.cs",
-              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\PostRepository.cs",
-              "RelativeDocumentMoniker": "..\\Infrastructure\\PostRepository.cs",
-              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\PostRepository.cs",
-              "RelativeToolTip": "..\\Infrastructure\\PostRepository.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAhwCkAAAAgAAAA",
+              "DocumentIndex": 14,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Dtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "..\\Dtos\\LoginDto.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Dtos\\LoginDto.cs",
+              "RelativeToolTip": "..\\Dtos\\LoginDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAvwBAAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T22:38:41.487Z",
+              "WhenOpened": "2024-10-06T18:05:03.712Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CommentDto.cs",
-              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Dtos\\CommentDto.cs",
-              "RelativeDocumentMoniker": "..\\Dtos\\CommentDto.cs",
-              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Dtos\\CommentDto.cs",
-              "RelativeToolTip": "..\\Dtos\\CommentDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAbAAAA",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialDomain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\ItsMySocialDomain\\Entities\\User.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialDomain\\Entities\\User.cs",
+              "RelativeToolTip": "..\\ItsMySocialDomain\\Entities\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAgAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T16:54:21.012Z",
+              "WhenOpened": "2024-08-02T15:11:29.989Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialDomain\\Entities\\Comment.cs",
-              "RelativeDocumentMoniker": "..\\ItsMySocialDomain\\Entities\\Comment.cs",
-              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialDomain\\Entities\\Comment.cs",
-              "RelativeToolTip": "..\\ItsMySocialDomain\\Entities\\Comment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-06T10:16:43.221Z",
+              "WhenOpened": "2024-08-02T16:01:29.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Post.cs",
-              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialDomain\\Entities\\Post.cs",
-              "RelativeDocumentMoniker": "..\\ItsMySocialDomain\\Entities\\Post.cs",
-              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialDomain\\Entities\\Post.cs",
-              "RelativeToolTip": "..\\ItsMySocialDomain\\Entities\\Post.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAjwBAAAAAwAAAA",
+              "DocumentIndex": 21,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Contracts\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\IUserRepository.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Contracts\\IUserRepository.cs",
+              "RelativeToolTip": "..\\Contracts\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T22:33:19.335Z"
+              "WhenOpened": "2024-10-07T11:12:30.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20240621161104_new.cs",
-              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialContext\\Migrations\\20240621161104_new.cs",
-              "RelativeDocumentMoniker": "..\\ItsMySocialContext\\Migrations\\20240621161104_new.cs",
-              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialContext\\Migrations\\20240621161104_new.cs",
-              "RelativeToolTip": "..\\ItsMySocialContext\\Migrations\\20240621161104_new.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "IShareRepository.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Contracts\\IShareRepository.cs",
+              "RelativeDocumentMoniker": "..\\Contracts\\IShareRepository.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Contracts\\IShareRepository.cs",
+              "RelativeToolTip": "..\\Contracts\\IShareRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T16:11:04.95Z"
+              "WhenOpened": "2024-08-02T15:15:33.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\UserRepository.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\UserRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\UserRepository.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T11:34:18.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommentController.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "Controllers\\CommentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:59:58.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Dtos\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "..\\Dtos\\RegisterDto.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Dtos\\RegisterDto.cs",
+              "RelativeToolTip": "..\\Dtos\\RegisterDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T18:01:09.704Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -215,66 +338,226 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-21T16:03:41.883Z"
+              "WhenOpened": "2024-06-21T16:03:41.883Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20240301123414_init.cs",
-              "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialContext\\Migrations\\20240301123414_init.cs",
-              "ToolTip": "D:\\E\\newAPI\\ItsMySocialContext\\Migrations\\20240301123414_init.cs",
+              "DocumentIndex": 1,
+              "Title": "ShareController.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\Controllers\\ShareController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShareController.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\Controllers\\ShareController.cs",
+              "RelativeToolTip": "Controllers\\ShareController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T12:34:15.462Z"
+              "WhenOpened": "2024-08-02T15:43:44.582Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 2,
+              "Title": "ShareRepository.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\ShareRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\ShareRepository.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\ShareRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\ShareRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:18:18.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostController.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\Controllers\\PostController.cs",
+              "RelativeToolTip": "Controllers\\PostController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T07:43:06.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ShareDto.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Dtos\\ShareDto.cs",
+              "RelativeDocumentMoniker": "..\\Dtos\\ShareDto.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Dtos\\ShareDto.cs",
+              "RelativeToolTip": "..\\Dtos\\ShareDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:44:33.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TokenDto.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Dtos\\TokenDto.cs",
+              "RelativeDocumentMoniker": "..\\Dtos\\TokenDto.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Dtos\\TokenDto.cs",
+              "RelativeToolTip": "..\\Dtos\\TokenDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T20:51:24.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "commentRepository.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\commentRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\commentRepository.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\commentRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\commentRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA+wBEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:21:36.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LikeRepository.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\LikeRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\LikeRepository.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\LikeRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\LikeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:38:51.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Dtos\\CommentDto.cs",
+              "RelativeDocumentMoniker": "..\\Dtos\\CommentDto.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Dtos\\CommentDto.cs",
+              "RelativeToolTip": "..\\Dtos\\CommentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:54:21.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\PostRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\PostRepository.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\Infrastructure\\PostRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\PostRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAMwC0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:38:41.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ItsMySocial.csproj",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\ItsMySocial.csproj",
+              "RelativeDocumentMoniker": "ItsMySocial.csproj",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\ItsMySocial.csproj",
+              "RelativeToolTip": "ItsMySocial.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-06T17:50:37.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Share.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialDomain\\Entities\\Share.cs",
+              "RelativeDocumentMoniker": "..\\ItsMySocialDomain\\Entities\\Share.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialDomain\\Entities\\Share.cs",
+              "RelativeToolTip": "..\\ItsMySocialDomain\\Entities\\Share.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T15:13:44.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LikeController.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\Controllers\\LikeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LikeController.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocial\\Controllers\\LikeController.cs",
+              "RelativeToolTip": "Controllers\\LikeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:17:50.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Post.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialDomain\\Entities\\Post.cs",
+              "RelativeDocumentMoniker": "..\\ItsMySocialDomain\\Entities\\Post.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialDomain\\Entities\\Post.cs",
+              "RelativeToolTip": "..\\ItsMySocialDomain\\Entities\\Post.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA6wBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T22:33:19.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialDomain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "..\\ItsMySocialDomain\\Entities\\Comment.cs",
+              "ToolTip": "E:\\ItsMySocial\\Api\\ItsMySocial\\ItsMySocialDomain\\Entities\\Comment.cs",
+              "RelativeToolTip": "..\\ItsMySocialDomain\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T10:16:43.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
               "Title": "Share.cs",
               "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Share.cs",
               "ToolTip": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Share.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA4AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-01T12:32:17.269Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 33,
               "Title": "Like.cs",
               "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Like.cs",
               "ToolTip": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Like.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA4AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-01T12:32:02.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "Comment.cs",
               "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Comment.cs",
               "ToolTip": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\Comment.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-01T11:38:17.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\User.cs",
-              "ToolTip": "D:\\E\\newAPI\\ItsMySocialDomain\\Entities\\User.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-01T11:37:22.887Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 34,
               "Title": "RelationMapping.cs",
               "DocumentMoniker": "D:\\E\\newAPI\\ItsMySocialContext\\RelationMapping.cs",
               "ToolTip": "D:\\E\\newAPI\\ItsMySocialContext\\RelationMapping.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAAAC8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-29T22:27:19.28Z"
             }

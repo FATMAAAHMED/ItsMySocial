@@ -31,12 +31,30 @@ namespace Infrastructure
 
         public async Task<Post> GetPostByIdAsync(long postId)
         {
-            return await socialdbcontext.Posts.FindAsync(postId);
+             var post = await  socialdbcontext.Posts.Include(p=>p.Comments)
+                .Include(p=>p.Likes)
+                .Include(p=>p.Shares)
+                .FirstOrDefaultAsync(p=>p.Id== postId);
+             
+             return post;
+        }
+
+        public async Task<IEnumerable<Comment>> GetPostCommentsAsync(long postId)
+        {
+            var post = socialdbcontext.Posts.Include(p=>p.Comments).FirstOrDefault(p=>p.Id==postId);
+            //Post post = socialdbcontext.Posts.Include(p => p.Comments);
+            var comments = post.Comments.ToList();
+            return comments;
+        }
+
+        public Task<IEnumerable<Like>> GetPostLikesAsync(long postId)
+        {
+            throw new NotImplementedException();
         }
 
         public async Task<IEnumerable<Post>> GetPostsAsync()
         {
-            return await socialdbcontext.Posts.Include(p=>p.Likes).ToListAsync();
+            return await socialdbcontext.Posts.ToListAsync();
         }
         
         public async Task<Post> UpdatePostAsync(long Id ,string post)
@@ -50,7 +68,6 @@ namespace Infrastructure
             }
             return null;
         }
-
        
     }
 }

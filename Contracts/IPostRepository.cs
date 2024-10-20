@@ -9,6 +9,9 @@ namespace Contracts
         Task<Post> AddPostAsync(Post post);
         Task<Post> UpdatePostAsync(long Id ,string post);
         Task DeletePostAsync(long postId);
+        Task<IEnumerable<Comment>> GetPostCommentsAsync( long postId);
+        Task<IEnumerable<Like>> GetPostLikesAsync(long postId);
+
 
     }
 }
